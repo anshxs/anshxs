@@ -1,1 +1,1 @@
-![Programming Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anshxs&layout=compact)
+[📊 My Programming Language Stats](https://github.com/anshxs/language-stats/blob/main/file.txt)
