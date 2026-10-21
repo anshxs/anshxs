@@ -11,8 +11,12 @@
 - [x] Git
 - [x] Prisma
 - [x] MySQL
----
 - [ ] MongoDB
+- [ ] FastAPI
+- [ ] Flask
+- [ ] Django
+- [ ] Networking
+---
 - [ ] Next.js
 - [ ] Flutter
 - [ ] Supabase
@@ -20,7 +24,3 @@
 - [ ] Vercel
 - [ ] Electron.js
 - [ ] Regular Expressions (Regex)
-- [ ] FastAPI
-- [ ] Flask
-- [ ] Django
-- [ ] Networking
