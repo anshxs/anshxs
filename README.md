@@ -24,5 +24,3 @@
 - [ ] Flask
 - [ ] Django
 - [ ] Networking
-- [ ] AI Engineering
-- [ ] Machine Learning (ML)
