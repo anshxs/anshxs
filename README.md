@@ -11,6 +11,7 @@
 - [x] Git
 - [x] Prisma
 - [x] MySQL
+      
 - [ ] MongoDB
 - [ ] Next.js
 - [ ] Flutter
