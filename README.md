@@ -1,1 +1,27 @@
-ewwwwiiiieeeeee
+- [x] HTML
+- [x] Tailwind CSS
+- [x] Python
+- [x] JavaScript
+- [x] TypeScript
+- [x] React.js
+- [x] PostgreSQL
+- [x] NumPy
+- [x] Node.js
+- [x] Express.js
+- [x] Git
+- [x] Prisma
+- [x] MySQL
+- [ ] MongoDB
+- [ ] Next.js
+- [ ] Flutter
+- [ ] Supabase
+- [ ] Pandas
+- [ ] Vercel
+- [ ] Electron.js
+- [ ] Regular Expressions (Regex)
+- [ ] FastAPI
+- [ ] Flask
+- [ ] Django
+- [ ] Networking
+- [ ] AI Engineering
+- [ ] Machine Learning (ML)
