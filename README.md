@@ -11,11 +11,11 @@
 - [x] Git
 - [x] Prisma
 - [x] MySQL
-- [ ] MongoDB
+- [x] MongoDB
 - [ ] FastAPI
 - [ ] Flask
 - [ ] Django
-- [ ] Networking
+- [ ] Computer Networks
 ---
 - [ ] Next.js
 - [ ] Flutter
