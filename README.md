@@ -12,15 +12,15 @@
 - [x] Prisma
 - [x] MySQL
 - [x] MongoDB
-- [ ] FastAPI
-- [ ] Flask
 - [ ] Django
 - [ ] Computer Networks
----
 - [ ] Next.js
-- [ ] Flutter
-- [ ] Supabase
 - [ ] Pandas
+- [ ] Supabase
+- [ ] Regular Expressions (Regex)
+---
+- [ ] FastAPI
+- [ ] Flask
+- [ ] Flutter
 - [ ] Vercel
 - [ ] Electron.js
-- [ ] Regular Expressions (Regex)
